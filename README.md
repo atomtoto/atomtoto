@@ -1,3 +1,3 @@
-👋 Hi, I’m Atom 
-16 y/o
+👋 Hi, I’m Atom, 
+16 y/o, 
 🇫🇷
