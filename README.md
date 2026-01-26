@@ -24,7 +24,7 @@
 ☁️  Cloud:      AWS, Firebase
 ```
 
-## �� GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   
