@@ -10,19 +10,8 @@
 
 - 🇫🇷 Based in France
 - 🎂 18 years old
-- 💻 Passionate about technology and coding
-- 🌱 Currently learning and exploring new technologies
+- 🌱 Passionate about sustanable energy transition
 - 🎯 Always eager to work on interesting projects
-
-## 🛠️ Technologies & Tools
-
-```text
-💻 Languages:  Python, JavaScript, Java, C++
-🚀 Frameworks:  React, Node.js, Express
-🗄️  Databases:  MySQL, MongoDB, PostgreSQL
-🔧 Tools:       Git, Docker, VS Code
-☁️  Cloud:      AWS, Firebase
-```
 
 ## 📊 GitHub Stats
 
@@ -33,13 +22,6 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atomtoto&layout=compact&theme=radical)
   
 </div>
-
-## 🎯 What I'm Working On
-
-- 🔭 Building cool projects and learning new skills
-- 👯 Open to collaborate on interesting open-source projects
-- 💬 Ask me about anything tech-related
-- 📫 How to reach me: Check my profile for contact details
 
 ## 🤝 Connect with Me
 
@@ -53,6 +35,6 @@
 
 <div align="center">
   
-  ⭐️ From [atomtoto](https://github.com/atomtoto)
+  ⭐️  Craft personal webpage: [atomtoto](https://atom.craft.me/cv)
   
 </div>
