@@ -35,6 +35,6 @@
 
 <div align="center">
   
-  ⭐️  Craft personal webpage: [atomtoto](https://atom.craft.me/cv)
+  ⭐️  My portfolio webpage: [atomtoto](https://atom.craft.me/portfolio-cv)
   
 </div>
