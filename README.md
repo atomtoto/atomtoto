@@ -13,15 +13,6 @@
 - 🌱 Passionate about sustanable energy transition
 - 🎯 Always eager to work on interesting projects
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Atom's GitHub stats](https://github-readme-stats.vercel.app/api?username=atomtoto&show_icons=true&theme=radical)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atomtoto&layout=compact&theme=radical)
-  
-</div>
 
 ## 🤝 Connect with Me
 
