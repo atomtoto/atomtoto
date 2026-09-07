@@ -11,7 +11,6 @@
 - 🇫🇷 Based in France
 - 🎂 19 years old
 - 🌱 Passionate about sustanable energy transition
-- 🎯 Always eager to work on interesting projects
 
 
 ## 🤝 Connect with Me
