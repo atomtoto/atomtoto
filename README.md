@@ -6,10 +6,10 @@
   
 </div>
 
-## 🙋‍♂️ About Me
+## About Me
 
 - 🇫🇷 Based in France
-- 🎂 19 years old
+- 🎂 20 years old
 - 🌱 Passionate about sustanable energy transition
 
 
